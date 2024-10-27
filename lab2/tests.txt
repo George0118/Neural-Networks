@@ -1,0 +1,19 @@
+Epochs = 3
+learning-rate = 2e-5, batch_size = 16  ->   Accuracy = 0.90667
+learning_rate = 2e-5, batch_size = 8   ->   Accuracy = 0.90333
+learning_rate = 4e-5, batch_size = 16  ->   Accuracy = 0.92333
+learning_rate = 1e-5, batch_size = 16  ->   Accuracy = 0.64333
+learning_rate = 4e-5, batch_size = 32  ->   Accuracy = 0.88000
+learning_rate = 2e-5, batch_size = 32  ->   Accuracy = 0.81667
+learning_rate = 4e-5, batch_size = 8   ->   Accuracy = 0.92333
+learning_rate = 6e-5, batch_size = 16  ->   Accuracy = 0.87333
+
+Epochs = 5
+learning_rate = 2e-5, batch_size = 16  ->   Accuracy = 0.92000
+learning_rate = 2e-5, batch_size = 8   ->   Accuracy = 0.92000
+learning_rate = 4e-5, batch_size = 16  ->   Accuracy = 0.90667
+learning_rate = 1e-5, batch_size = 16  ->   Accuracy = 0.89667
+learning_rate = 4e-5, batch_size = 32  ->   Accuracy = 0.91667
+learning_rate = 2e-5, batch_size = 32  ->   Accuracy = 0.90333
+learning_rate = 4e-5, batch_size = 8   ->   Accuracy = 0.89667
+learning_rate = 6e-5, batch_size = 16  ->   Accuracy = 0.88000
